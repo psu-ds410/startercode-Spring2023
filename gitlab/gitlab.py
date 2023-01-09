@@ -1,6 +1,6 @@
 
 def main():
-    print("Lab not completed yet")
+    print("Git lab completed successfully")
 
 
 if __name__ == "__main__":
